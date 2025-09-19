@@ -1,8 +1,8 @@
 # Laporan Modul 2: Dasar Pemrograman Java
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek  
-**Nama:** [Isi nama lengkap]  
-**NIM:** [Isi NIM]  
-**Kelas:** [Isi]
+**Nama:** [Malikul Mulki]  
+**NIM:** [2024573010079]  
+**Kelas:** [TI 2A]
 
 ---
 
