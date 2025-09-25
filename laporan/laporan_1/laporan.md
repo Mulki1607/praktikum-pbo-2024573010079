@@ -134,7 +134,7 @@ Copy code
 
 
 Copy code
-![Screenshot 2025-09-25 133000.png](gambar/Screenshot%202025-09-25%20133000.png)
+![Screenshot 2025-09-25 133000.png](../gambar/Screenshot%202025-09-25%20133000.png)
 
     https://github.com/username/praktikum-pbo-230101012.git
 Lakukan clone:
@@ -192,6 +192,6 @@ Klik tombol Run → hasil output:
 Copy code
 
     Hello World
-![img_2.png](img_2.png)
+![img_2.png](../gambar/img_2.png)
 
 
