@@ -82,7 +82,7 @@ Copy code
 
     javac 17.0.x
 ## 3. Praktikum 2: Instalasi IntelliJ IDEA
-(Bagian ini mengikuti modul, bisa diisi langkah-langkah instalasi IDE IntelliJ IDEA seperti pada modul Praktikum 2)
+(Bagian ini mengikuti modul_3, bisa diisi langkah-langkah instalasi IDE IntelliJ IDEA seperti pada modul_3 Praktikum 2)
 
 ## 4. Praktikum 3: Persiapan Repository Projek
 ### 4.1 Tujuan
